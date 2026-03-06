@@ -5,17 +5,6 @@ This application allows users to create, view, and delete notes. All notes are s
 
 ---
 
-## Features
-
-- View list of notes
-- Add a new note
-- Delete a note
-- Backend validation for empty notes
-- RESTful API implementation
-- Simple and responsive UI
-
----
-
 ## Tech Stack
 
 Backend
