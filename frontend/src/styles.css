@@ -1,0 +1,33 @@
+/* You can add global styles to this file, and also import other style files */
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+body {
+  background: #f5f7fa;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.note-card{
+border-radius:12px;
+border:1px solid #eee;
+transition:all .2s ease
+}
+
+.note-card:hover{
+transform:translateY(-3px);
+box-shadow:0 6px 20px rgba(0,0,0,.08)
+}
+
+.note-text{
+font-size:15px;
+line-height:1.4;
+white-space:pre-wrap
+}
+
+input:focus {
+  outline: none;
+  box-shadow: none;
+}
