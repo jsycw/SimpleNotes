@@ -5,6 +5,7 @@ This application allows users to create, view, and delete notes. All notes are s
 
 ---
 
+<<<<<<< HEAD
 ## Tech Stack
 
 Backend
@@ -25,6 +26,8 @@ POST | /api/notes | Create a new note
 DELETE | /api/notes/{id} | Delete a note
 
 ---
+=======
+>>>>>>> 3948fbd3b75a1aa2a8ca22958d323dd7f5bdd9c1
 
 ## How to Run
 
