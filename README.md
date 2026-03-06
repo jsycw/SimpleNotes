@@ -5,37 +5,6 @@ This application allows users to create, view, and delete notes. All notes are s
 
 ---
 
-## Features
-
-- View list of notes
-- Add a new note
-- Delete a note
-- Backend validation for empty notes
-- RESTful API implementation
-- Simple and responsive UI
-
----
-
-## Tech Stack
-
-Backend
-- Java
-- Spring Boot
-
-Frontend
-- Angular
-- Bootstrap
-
----
-
-## API Endpoints
-
-Method | Endpoint | Description
-GET | /api/notes | Retrieve all notes
-POST | /api/notes | Create a new note
-DELETE | /api/notes/{id} | Delete a note
-
----
 
 ## How to Run
 
