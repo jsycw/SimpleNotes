@@ -83,10 +83,3 @@ http://localhost:4200
 ### Notes List
 
 ![Notes List](screenshots/6notes.png)
-
----
-
-## Notes
-
-* Notes are stored in memory, so data will reset when the backend server restarts.
-* The application follows basic REST API principles.
